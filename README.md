@@ -1,9 +1,9 @@
 
 ## Welcome to baim.city
 
-Currently this is an invite only cheat.
+Currently this is an invite only cheat. We will also be setting up an HvH server soon.
 
-This cheat coasts 20 dollars a month.
+This cheat coasts $5 dollars a month.
 
 ### Features
 
@@ -21,8 +21,6 @@ baim.city features (1/13/19)
 
 # Misc
 - Fakelag `Adds lag`
-
-```[Link](url) and ![Image](src)
 ```
 
 Join the [Discord](https://discord.gg/2tvFxcR).
@@ -30,6 +28,7 @@ Join the [Discord](https://discord.gg/2tvFxcR).
 ### Showcase
 
 ADD VISUALS SHOWCASE
+random thing i need [Link](url) and ![Image](src)
 
 ### Support or Contact
 
