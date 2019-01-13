@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome baim.city
 
-You can use the [editor on GitHub](https://github.com/SwoopD/baim.city/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently this is an invite only cheat.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This cheat coasts 20 dollars a month.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our cheat is feature rich with only the best.
 
 ```markdown
-Syntax highlighted code block
+baim.city features (1/13/19)
 
-# Header 1
-## Header 2
-### Header 3
+# Ragebot
+- AntiAim
+- Aimbot
 
-- Bulleted
-- List
+# Legitbot
+- Autorun
 
-1. Numbered
-2. List
+# Misc
+- Fakelag `Adds lag`
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To purchase [Click here](https://paypal.me/swoopfwgh87y69w8gh7fws8hfwse).
 
-### Jekyll Themes
+### Showcase
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwoopD/baim.city/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ADD VISUALS SHOWCASE
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our cheat? Check out our [documentation](https://help.baim.city/) or [contact support](https://baim.city/contact) and we’ll help you sort it out.
