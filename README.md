@@ -1,4 +1,5 @@
-## Welcome baim.city
+
+## Welcome to baim.city
 
 Currently this is an invite only cheat.
 
@@ -24,7 +25,7 @@ baim.city features (1/13/19)
 ```[Link](url) and ![Image](src)
 ```
 
-To purchase [Click here](https://paypal.me/swoopfwgh87y69w8gh7fws8hfwse).
+Join the [Discord](https://discord.gg/2tvFxcR).
 
 ### Showcase
 
