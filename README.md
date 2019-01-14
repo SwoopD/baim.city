@@ -2,13 +2,13 @@
  
 ## Welcome to baim.city
 
-Currently this is an invite only cheat. We will also be setting up an HvH server soon.
+This cheat is currently under construction along with an HvH server we will be releasing a long side of the cheat.
 
-This cheat coasts $5 dollars a month.
+This cheat will cost $5 dollars a month and will be invite only for the launch.
 
 ### Features
 
-Our cheat is feature rich with only the best.
+Our cheat is feature rich with only the best. (WIP)
 
 ```markdown
 baim.city features (1/13/19)
