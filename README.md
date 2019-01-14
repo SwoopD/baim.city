@@ -1,4 +1,4 @@
- 
+# Coming soon...
  
 ## Welcome to baim.city
 
